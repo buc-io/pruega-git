@@ -1,3 +1,3 @@
-# pruega-git
+# prueba-git
 
 Pruebas de git
